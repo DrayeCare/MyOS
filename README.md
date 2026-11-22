@@ -264,3 +264,6 @@ Rather than abstracting away the mechanisms, the project explores them directly 
 <p align="center">
   <strong>Built to understand what runs beneath the system.</strong>
 </p>
+
+## Documentation
+- [System Architecture](myos_system_architecture.md)
