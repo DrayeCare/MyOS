@@ -1,11 +1,24 @@
-<h1 align="center">MyOS</h1>
+<div align="center">
 
-<p align="center">
+<h1>MyOS</h1>
+
+<p>
   <strong>A minimal, experimental operating system built from the ground up.</strong>
 </p>
-<p align="center">
+
+<p>
+  <img src="https://img.shields.io/badge/Architecture-x86__64-0078D6?style=flat-square" alt="x86_64" />
+  <img src="https://img.shields.io/badge/Language-C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/Low--Level-Assembly-654FF0?style=flat-square" alt="Assembly" />
+  <img src="https://img.shields.io/badge/Emulator-QEMU-FF6600?style=flat-square" alt="QEMU" />
+  <img src="https://img.shields.io/badge/Bootloader-Limine-2EA44F?style=flat-square" alt="Limine" />
+</p>
+
+<p>
   <code>x86_64</code> · <code>C</code> · <code>Assembly</code> · <code>QEMU</code> · <code>Limine</code>
 </p>
+
+</div>
 
 An exploration of operating system fundamentals through a small, bootable kernel.
 
