@@ -14,10 +14,6 @@
   <img src="https://img.shields.io/badge/Bootloader-Limine-2EA44F?style=flat-square" alt="Limine" />
 </p>
 
-<p>
-  <code>x86_64</code> · <code>C</code> · <code>Assembly</code> · <code>QEMU</code> · <code>Limine</code>
-</p>
-
 </div>
 
 An exploration of operating system fundamentals through a small, bootable kernel.
