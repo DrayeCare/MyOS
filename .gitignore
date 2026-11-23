@@ -1,0 +1,6 @@
+# Generated host-test artifacts and kernel object files.
+# Tracked binaries (build/kernel, build/MyOS.iso, iso_root/boot/kernel,
+# OVMF_VARS.fd and the Limine payloads) are intentionally not listed here:
+# they predate this file and are managed explicitly by the project.
+/build/*.o
+/build/tests/
